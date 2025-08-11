@@ -1,1 +1,4 @@
+theme: jekyll-theme-cayman  # 替换为官方支持的主题名:ml-citation{ref="2,9" data="citationList"}
+plugins:
+  - jekyll-remote-theme    # 启用远程主题加载:ml-citation{ref="2" data="citationList"}
 
